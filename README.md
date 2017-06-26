@@ -1,2 +1,2 @@
 # hello-world
-hello-world обучение
+hello-world обучениПривет  github! Я пытаюсь понять как ты устроен)
